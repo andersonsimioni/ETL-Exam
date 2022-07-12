@@ -5,4 +5,4 @@ I used python and jupyter notebook to create simple ETL process to extract bank 
 from CSV and JSON files, then transform bank 'Market Cap (USD$ Billion)' information to 'Market Cap (GBP$ Billion)' rate.
 Finally, I load the transformed data intoa CSV file on my computer named as 'bank_market_cap_gbp.csv' and removing the index.
 
-[Check full project content in ](ETL-Exam/ETL_Engineer_Peer_Review_Assignment.ipynb)
+[Check full project content in ](https://github.com/andersonsimioni/ETL-Exam/blob/main/ETL_Engineer_Peer_Review_Assignment.ipynb)
